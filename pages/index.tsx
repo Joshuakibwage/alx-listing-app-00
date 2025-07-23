@@ -9,7 +9,7 @@ const Home: React.FC = () => {
     return (
         <section className="min-h-screen w-full">
             {/* hero section */}
-            <section className="w-[96%] mx-auto relative my-8 h-screen rounded-xl overflow-hidden">
+            <section className="w-[96%] mx-auto relative my-8 h-[600px] rounded-xl overflow-hidden">
                 <Image
                     src={HeroBg}
                     alt="hero background"
